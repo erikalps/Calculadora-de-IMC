@@ -1,0 +1,20 @@
+button{
+    text-transform: uppercase;
+    padding:1rem 1.5rem;
+    background-color:brown ;
+    border: none;
+    cursor: pointer;
+    color:#fff;
+    opacity: 0.9;
+    flex: 1;
+    
+}
+
+
+button:hover{
+    opacity: 1;
+}
+
+#clear-btn{
+    background-color: rgb(61, 66, 66);
+}
